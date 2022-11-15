@@ -5,3 +5,4 @@
 }}
 
 {{ fivetran_adwords_click_performance() }}
+new_line
